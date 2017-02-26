@@ -1,0 +1,1 @@
+Ссылка на интерпретатор SMALL BASIC на C: http://www.realcoding.net/article/view/1085
