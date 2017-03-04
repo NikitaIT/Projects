@@ -1,9 +1,0 @@
-D:\Program\StudentCore\Huffman\HuffmanCode\obj\Debug\HuffmanCode.csproj.GenerateResource.Cache
-D:\Program\StudentCore\Huffman\HuffmanCode\bin\Debug\HuffmanCode.exe.config
-D:\Program\StudentCore\Huffman\HuffmanCode\bin\Debug\HuffmanCode.exe
-D:\Program\StudentCore\Huffman\HuffmanCode\bin\Debug\HuffmanCode.pdb
-D:\Program\StudentCore\Huffman\HuffmanCode\bin\Debug\HuffmanLib.dll
-D:\Program\StudentCore\Huffman\HuffmanCode\bin\Debug\HuffmanLib.pdb
-D:\Program\StudentCore\Huffman\HuffmanCode\obj\Debug\HuffmanCode.exe
-D:\Program\StudentCore\Huffman\HuffmanCode\obj\Debug\HuffmanCode.pdb
-D:\Program\StudentCore\Huffman\HuffmanCode\obj\Debug\HuffmanCode.UI.HuffmanForm.resources

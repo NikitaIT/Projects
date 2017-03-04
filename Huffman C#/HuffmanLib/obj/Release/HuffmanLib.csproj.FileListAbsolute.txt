@@ -1,4 +1,5 @@
-D:\Program\StudentCore\Huffman\HuffmanLib\bin\Release\HuffmanLib.dll
-D:\Program\StudentCore\Huffman\HuffmanLib\bin\Release\HuffmanLib.pdb
-D:\Program\StudentCore\Huffman\HuffmanLib\obj\Release\HuffmanLib.dll
-D:\Program\StudentCore\Huffman\HuffmanLib\obj\Release\HuffmanLib.pdb
+D:\Program\AllPro\Huffman C#\HuffmanLib\bin\Release\HuffmanLib.dll
+D:\Program\AllPro\Huffman C#\HuffmanLib\bin\Release\HuffmanLib.pdb
+D:\Program\AllPro\Huffman C#\HuffmanLib\obj\Release\HuffmanLib.csprojResolveAssemblyReference.cache
+D:\Program\AllPro\Huffman C#\HuffmanLib\obj\Release\HuffmanLib.dll
+D:\Program\AllPro\Huffman C#\HuffmanLib\obj\Release\HuffmanLib.pdb

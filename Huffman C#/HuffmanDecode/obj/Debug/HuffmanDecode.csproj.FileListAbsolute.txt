@@ -1,9 +1,0 @@
-D:\Program\StudentCore\Huffman\HuffmanDecode\obj\Debug\HuffmanDecode.csproj.GenerateResource.Cache
-D:\Program\StudentCore\Huffman\HuffmanDecode\bin\Debug\HuffmanDecode.exe.config
-D:\Program\StudentCore\Huffman\HuffmanDecode\bin\Debug\HuffmanDecode.exe
-D:\Program\StudentCore\Huffman\HuffmanDecode\bin\Debug\HuffmanDecode.pdb
-D:\Program\StudentCore\Huffman\HuffmanDecode\bin\Debug\HuffmanLib.dll
-D:\Program\StudentCore\Huffman\HuffmanDecode\bin\Debug\HuffmanLib.pdb
-D:\Program\StudentCore\Huffman\HuffmanDecode\obj\Debug\HuffmanDecode.exe
-D:\Program\StudentCore\Huffman\HuffmanDecode\obj\Debug\HuffmanDecode.pdb
-D:\Program\StudentCore\Huffman\HuffmanDecode\obj\Debug\HuffmanDecode.UI.HuffmanForm.resources
