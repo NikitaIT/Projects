@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="DoValidate" storage="d:\c\kompas-api\kompas-api.tests\dovalidate.orderedtest" id="b977654a-3dfb-494d-8d5c-0ec3cb9bf915" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestLinks>
+    <TestLink id="fa75c938-7506-af67-98f7-2646b8ba1baa" name="DoValidateTestByMinusNull" storage="bin\debug\kompas-api.tests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="0243d76d-e545-2bc2-1b1e-b4d021cce7cf" name="DoValidateTestByPlasNull" storage="bin\debug\kompas-api.tests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="6bb7d0f3-ff3d-bcc9-4559-2e323577540a" name="DoValidateTestByUshort" storage="bin\debug\kompas-api.tests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="77641e60-4c2d-8556-1fa5-6ec9de2ad71b" name="DoValidateTestNAN" storage="bin\debug\kompas-api.tests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>

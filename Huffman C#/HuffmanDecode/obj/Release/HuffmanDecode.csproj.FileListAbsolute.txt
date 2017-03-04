@@ -1,0 +1,12 @@
+D:\Program\StudentCore\Huffman\HuffmanDecode\bin\Release\HuffmanDecode.exe.config
+D:\Program\StudentCore\Huffman\HuffmanDecode\bin\Release\HuffmanDecode.exe
+D:\Program\StudentCore\Huffman\HuffmanDecode\bin\Release\HuffmanDecode.pdb
+D:\Program\StudentCore\Huffman\HuffmanDecode\bin\Release\HuffmanLib.dll
+D:\Program\StudentCore\Huffman\HuffmanDecode\bin\Release\HuffmanLib.pdb
+D:\Program\StudentCore\Huffman\HuffmanDecode\obj\Release\HuffmanDecode.UI.HuffmanForm.resources
+D:\Program\StudentCore\Huffman\HuffmanDecode\obj\Release\HuffmanDecode.csproj.GenerateResource.Cache
+D:\Program\StudentCore\Huffman\HuffmanDecode\obj\Release\HuffmanDecode.exe
+D:\Program\StudentCore\Huffman\HuffmanDecode\obj\Release\HuffmanDecode.pdb
+D:\Program\AllPro\Huffman C#\HuffmanDecode\bin\Release\HuffmanDecode.exe.config
+D:\Program\AllPro\Huffman C#\HuffmanDecode\obj\Release\HuffmanDecode.exe
+D:\Program\AllPro\Huffman C#\HuffmanDecode\obj\Release\HuffmanDecode.pdb

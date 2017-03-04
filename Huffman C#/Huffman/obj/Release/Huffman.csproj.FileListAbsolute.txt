@@ -1,0 +1,14 @@
+D:\Program\StudentCore\Huffman\Huffman\bin\Release\Huffman.exe.config
+D:\Program\StudentCore\Huffman\Huffman\bin\Release\Huffman.exe
+D:\Program\StudentCore\Huffman\Huffman\bin\Release\Huffman.pdb
+D:\Program\StudentCore\Huffman\Huffman\bin\Release\HuffmanLib.dll
+D:\Program\StudentCore\Huffman\Huffman\bin\Release\Microsoft.Owin.dll
+D:\Program\StudentCore\Huffman\Huffman\bin\Release\Owin.dll
+D:\Program\StudentCore\Huffman\Huffman\bin\Release\HuffmanLib.pdb
+D:\Program\StudentCore\Huffman\Huffman\bin\Release\Microsoft.Owin.xml
+D:\Program\StudentCore\Huffman\Huffman\obj\Release\Huffman.csprojResolveAssemblyReference.cache
+D:\Program\StudentCore\Huffman\Huffman\obj\Release\Huffman.HuffmanForm.resources
+D:\Program\StudentCore\Huffman\Huffman\obj\Release\Huffman.Properties.Resources.resources
+D:\Program\StudentCore\Huffman\Huffman\obj\Release\Huffman.csproj.GenerateResource.Cache
+D:\Program\StudentCore\Huffman\Huffman\obj\Release\Huffman.exe
+D:\Program\StudentCore\Huffman\Huffman\obj\Release\Huffman.pdb

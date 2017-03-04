@@ -1,0 +1,4 @@
+D:\Program\StudentCore\Huffman\HuffmanLib\bin\Debug\HuffmanLib.dll
+D:\Program\StudentCore\Huffman\HuffmanLib\bin\Debug\HuffmanLib.pdb
+D:\Program\StudentCore\Huffman\HuffmanLib\obj\Debug\HuffmanLib.dll
+D:\Program\StudentCore\Huffman\HuffmanLib\obj\Debug\HuffmanLib.pdb

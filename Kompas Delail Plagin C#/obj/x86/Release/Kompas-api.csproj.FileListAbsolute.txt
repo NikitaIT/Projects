@@ -1,0 +1,50 @@
+C:\Users\andrey\Desktop\Kompas-api\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\andrey\Desktop\Kompas-api\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\andrey\Desktop\Kompas-api\obj\x86\Release\Kompas-api.csproj.GenerateResource.Cache
+C:\Users\andrey\Desktop\Kompas-api\bin\Release\View\Form1.resx
+C:\Users\andrey\Desktop\Kompas-api\bin\Release\View\Form1.cs
+C:\Users\andrey\Desktop\Kompas-api\bin\Release\View\Form1.Designer.cs
+C:\Users\andrey\Desktop\Kompas-api\bin\Release\Kompas-api.exe.manifest
+C:\Users\andrey\Desktop\Kompas-api\bin\Release\Kompas-api.application
+C:\Users\andrey\Desktop\Kompas-api\bin\Release\Kompas-api.exe
+C:\Users\andrey\Desktop\Kompas-api\bin\Release\Kompas-api.pdb
+C:\Users\andrey\Desktop\Kompas-api\bin\Release\KAPITypes.dll
+C:\Users\andrey\Desktop\Kompas-api\bin\Release\KAPITypes.pdb
+C:\Users\andrey\Desktop\Kompas-api\obj\x86\Release\Kompas-api.exe.manifest
+C:\Users\andrey\Desktop\Kompas-api\obj\x86\Release\Kompas-api.application
+C:\Users\andrey\Desktop\Kompas-api\obj\x86\Release\Kompas-api.exe
+C:\Users\andrey\Desktop\Kompas-api\obj\x86\Release\Kompas-api.pdb
+C:\Users\andrey\Desktop\Kompas-api\obj\x86\Release\Kompas-api.csprojResolveAssemblyReference.cache
+C:\Users\Вячеслав\Desktop\4 курс\Калентьев\курсовая\5\Kompas-api\obj\x86\Release\Kompas-api.exe
+C:\Users\Вячеслав\Desktop\4 курс\Калентьев\курсовая\5\Kompas-api\obj\x86\Release\Kompas-api.pdb
+C:\Users\Вячеслав\Desktop\4 курс\Калентьев\курсовая\5\Kompas-api\obj\x86\Release\Kompas-api.csprojResolveAssemblyReference.cache
+C:\Users\Вячеслав\Desktop\4 курс\Калентьев\курсовая\5\Kompas-api\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Вячеслав\Desktop\4 курс\Калентьев\курсовая\5\Kompas-api\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Вячеслав\Desktop\4 курс\Калентьев\курсовая\5\Kompas-api\obj\x86\Release\Kompas-api.csproj.GenerateResource.Cache
+C:\Users\Вячеслав\Desktop\4 курс\Калентьев\курсовая\5\Kompas-api\bin\Release\View\Form1.resx
+C:\Users\Вячеслав\Desktop\4 курс\Калентьев\курсовая\5\Kompas-api\bin\Release\View\Form1.cs
+C:\Users\Вячеслав\Desktop\4 курс\Калентьев\курсовая\5\Kompas-api\bin\Release\View\Form1.Designer.cs
+C:\Users\Вячеслав\Desktop\4 курс\Калентьев\курсовая\5\Kompas-api\bin\Release\Kompas-api.exe.manifest
+C:\Users\Вячеслав\Desktop\4 курс\Калентьев\курсовая\5\Kompas-api\bin\Release\Kompas-api.application
+C:\Users\Вячеслав\Desktop\4 курс\Калентьев\курсовая\5\Kompas-api\bin\Release\Kompas-api.exe
+C:\Users\Вячеслав\Desktop\4 курс\Калентьев\курсовая\5\Kompas-api\bin\Release\Kompas-api.pdb
+C:\Users\Вячеслав\Desktop\4 курс\Калентьев\курсовая\5\Kompas-api\bin\Release\KAPITypes.dll
+C:\Users\Вячеслав\Desktop\4 курс\Калентьев\курсовая\5\Kompas-api\bin\Release\KAPITypes.pdb
+C:\Users\Вячеслав\Desktop\4 курс\Калентьев\курсовая\5\Kompas-api\obj\x86\Release\Kompas-api.exe.manifest
+C:\Users\Вячеслав\Desktop\4 курс\Калентьев\курсовая\5\Kompas-api\obj\x86\Release\Kompas-api.application
+D:\c\Kompas-api\obj\x86\Release\Kompas-api.exe
+D:\c\Kompas-api\obj\x86\Release\Kompas-api.pdb
+D:\c\Kompas-api\obj\x86\Release\Kompas-api.csprojResolveAssemblyReference.cache
+D:\c\Kompas-api\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\c\Kompas-api\obj\x86\Release\Kompas-api.csproj.GenerateResource.Cache
+D:\c\Kompas-api\bin\Release\View\Form1.resx
+D:\c\Kompas-api\bin\Release\View\Form1.cs
+D:\c\Kompas-api\bin\Release\View\Form1.Designer.cs
+D:\c\Kompas-api\bin\Release\Kompas-api.exe.manifest
+D:\c\Kompas-api\bin\Release\Kompas-api.application
+D:\c\Kompas-api\bin\Release\Kompas-api.exe
+D:\c\Kompas-api\bin\Release\Kompas-api.pdb
+D:\c\Kompas-api\bin\Release\KAPITypes.dll
+D:\c\Kompas-api\obj\x86\Release\Kompas-api.exe.manifest
+D:\c\Kompas-api\obj\x86\Release\Kompas-api.application
+D:\c\Kompas-api\obj\x86\Release\WindowsFormsApplication1.View.Form1.resources
