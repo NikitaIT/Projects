@@ -1,8 +1,8 @@
-# <p align="center">[ Репозиторий Проектов ](https://github.com/NikitaIT/Projects/)</p>
+# <p align="center">[ Archive ](https://github.com/NikitaIT/Projects/)</p>
 
 ---
 
-## Содержание 
+## Content
     
 [-> 1.Lexical Analyzer for C++ ](https://github.com/NikitaIT/Projects/blob/master/Lexical%20Analyzer%20for%20C%2B%2B/README.md)
     
